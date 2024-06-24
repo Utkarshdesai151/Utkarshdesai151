@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Utkarsh Desai  
-- 👀 I’m 
 - 🌱 I’m currently working as front end developer at nexalus soft 
 - 📫 How to reach me : desaiutkarsh151@gmail.com
   
